@@ -1,0 +1,23 @@
+*{
+    transition: 100ms;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.line{
+    width: 300px;
+    height: 10px;
+    border-radius: 10px;
+    background: #000;
+}
+
+button{
+    margin-top: 10px;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    border: 1px solid gray;
+    background: gray;
+    margin-top: 10px;
+}
